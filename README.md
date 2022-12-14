@@ -5,7 +5,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Tawsifxd</h1>
 
-### <div align="center">I'm Tawsif, a full-time part-time stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center"> 🤐 I'm Tawsif, a part-time stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on Django Framework   
