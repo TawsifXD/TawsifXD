@@ -108,9 +108,9 @@
 <br/>  
 
 
-## Most Use language  
+## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TawsifXD=CharalambosIoannou&theme=tokyonight)
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TawsifXD&theme=tokyonight)</div> 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
