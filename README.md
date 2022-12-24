@@ -75,14 +75,24 @@
 <br>
 
 <div align="center">
-<img src="https://visitcount.itsvg.in/api?id=TawsifXD&icon=2&color=8" align="center" />
+<img src="https://komarev.com/ghpvc/?username=TawsifXD&&style=flat-square" align="center" />
 </div> 
 
 <br>
 <br>
 
   ## 💰 You can help me by Donating
-  <div align="center">
+ 
   
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/redoantawsif" /></div>  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/redoantawsif" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
  
