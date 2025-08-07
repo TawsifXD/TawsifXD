@@ -12,37 +12,6 @@
 <br>
 <br>
 
-
-## 🌐 Socials:
-<div align="center">
-<a href="htttps://discord.gg/755118039590240256" target="_blank">
-<img src=https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white alt=Discord style="margin-bottom: 5px;" />
-</a>
-<a href="https://facebook.com/redoan.tawsif" target="_blank">
-<img src=https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/redoan.tawsif" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/redoan-tawsif" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://pinterest.com/redoantawsif" target="_blank">
-<img src=https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white alt=Pinterest style="margin-bottom: 5px;" />
-</a>
-<a href="https://reddit.com/user/TawsifXD" target="_blank">
-<img src=https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white alt=Reddit style="margin-bottom: 5px;" />
-</a>
-<a href="https://tiktok.com/@redoantawsif" target="_blank">
-<img src=https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white alt=TikTok style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/redoantawsif" target="_blank">
-<img src=https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" />
-</a>
-</div>  
-<br>
-<br>
-
 # 💻 Tech Stack:
 <div align="center">
 
@@ -54,11 +23,8 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TawsifXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="center" />
-<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TawsifXD&theme=dark&hide_border=false" align="center" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawsifXD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" />
 </div> 
 <br>
 <br>
@@ -68,9 +34,6 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" />
 </div> 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yqskyyqf81ozwyzdhm6mpepz6&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
-
 <br>
 <br>
 
